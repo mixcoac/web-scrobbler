@@ -1513,7 +1513,7 @@ export default <ConnectorMeta[]>[
 	},
 	{
 		label: 'Napster',
-		matches: ['*://app.napster.com/*'],
+		matches: ['*://web.napster.com/*'],
 		js: 'napster.js',
 		id: 'napster',
 	},
